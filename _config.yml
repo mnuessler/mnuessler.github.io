@@ -1,5 +1,5 @@
 # Site settings
-title: Your awesome title
+title: Development
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,3 +12,12 @@ github_username:  mnuessler
 
 # Build settings
 markdown: kramdown
+
+# RSS generator settings
+name: Development
+author: Matthias Nüßler
+copyright: 2015 Matthias Nüßler
+#rss_path       - (optional) the path to the feed (if not specified "/" will be used)
+#rss_name       - (optional) the name of the rss file (if not specified "rss.xml" will be used)
+#rss_post_limit - (optional) the number of posts in the feed
+
