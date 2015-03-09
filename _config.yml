@@ -22,4 +22,5 @@ copyright: 2015 Matthias Nüßler
 #rss_post_limit - (optional) the number of posts in the feed
 
 gems:
+  - jekyll-org-mode-converter
   - jekyll-sitemap
