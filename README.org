@@ -1,0 +1,2 @@
+The sources for my [[http://mnuessler.github.io][blog]] based on [[http://jekyllrb.com/][Jekyll]], the simple, blog-aware static
+site generator.
