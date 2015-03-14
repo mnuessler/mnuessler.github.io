@@ -24,3 +24,4 @@ copyright: 2015 Matthias Nüßler
 gems:
   - jekyll-org-mode-converter
   - jekyll-sitemap
+  - jekyll-redirect-from
